@@ -1,100 +1,13 @@
-# Project Management Trends: How AI and New Tools Are Changing the Game Project management has come a long way from Gantt charts and Excel
-spreadsheets. Exciting new technologies like generative AI and
-software...
+---
+Author: Kyle Jones Publication_date: March 27, 2024 Canonical_link: "https://medium.com/@kyle-t-jones/project-management-trends-how-ai-and-new-tools-are-changing-the-game-16ef210bd64b" Export_from_medium_date: November 10, 2025
+---
+# Project Management Trends: How AI and New Tools Are Changing the Game
 
-::::::::### Project Management Trends: How AI and New Tools Are Changing the Game 
+Project management has come a long way from Gantt charts and Excel spreadsheets. Exciting new technologies like generative AI and software...
+### Project Management Trends: How AI and New Tools Are Changing the Game
 
-Project management has come a long way from [Gantt
-charts](https://medium.com/@kylejones_47003/the-benefits-of-using-gantt-charts-in-project-management-dc5990d504f6) and Excel spreadsheets. Exciting new technologies like
-generative AI and software platforms are changing how we plan and
-execute projects. Here are some of the key developments business leaders
-should know (whether or not they have the title of Project Manager).
-
-
-<figcaption>Photo by <a
-href="https://unsplash.com/@octadan?utm_source=medium&amp;utm_medium=referral"
-class="markup--anchor markup--figure-anchor"
-data-href="https://unsplash.com/@octadan?utm_source=medium&amp;utm_medium=referral"
-rel="photo-creator noopener" target="_blank">Octavian Dan</a> on <a
-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
-class="markup--anchor markup--figure-anchor"
-data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
-rel="photo-source noopener" target="_blank">Unsplash</a></figcaption>
-
-
-#### Generative AI and Project Documentation
-Project management is evolving with new technologies that aim to make
-planning and documentation easier. Recently emerging generative AI tools
-like Anthropic's Claude and perplexity.ai show promise for automating
-boring documentation tasks. These tools can take prompts about a project
-and generate text summarizing plans, risks, statuses, and
-recommendations.
-
-These tools can take simple prompts about a project and generate full
-work breakdown structures, Gantt charts, and other PM artifacts. While
-still early stage, generative AI promises to eliminate some of the more
-tedious aspects of project management. However, proper oversight is
-still needed to ensure quality outputs.
-
-While AI documentation assistants aren't ready to fully replace project
-managers yet, they demonstrate how AI will transform workflows. Expect
-smarter planning aids and progress trackers as GenAI automates the
-boring stuff to free up PMs to focus on higher-value strategic work.
-
-#### Leveraging Data for Better Decision Making
-A key theme of the class was leveraging data for better project
-oversight. Modern PM software platforms like Monday.com provide advanced
-visualizations and statistics allowing managers to easily identify
-bottlenecks, evaluate team performance, and make data-driven decisions.
-Tracking metrics like on-time delivery, quality scores, and budget
-versus actuals can fuel a culture of continuous improvement. Moving PM
-tasks out of email and spreadsheets onto a common platform is a clear
-productivity win.
-
-Cloud-based project management platforms are also gaining traction by
-centralizing planning, task management, and status reporting. Tools like
-Monday.com, Microsoft Project, and ProjectLibre enable managing projects
-through graphical schedules and card walls showing progress flowing
-between stages. These platforms analyze cycle times and productivity to
-help optimize team performance.
-
-[**Staffing and Managing Project Teams: Lessons from the Trenches**\
-*Assembling the right team is critical to project success, but it's not
-easy. In this post, I'll share some
-real-world...*medium.com](https://medium.com/@kylejones_47003/staffing-and-managing-project-teams-lessons-from-the-trenches-0b0d7bf732b8 "https://medium.com/@kylejones_47003/staffing-and-managing-project-teams-lessons-from-the-trenches-0b0d7bf732b8")[](https://medium.com/@kylejones_47003/staffing-and-managing-project-teams-lessons-from-the-trenches-0b0d7bf732b8)
-#### Balancing Flexibility and Governance
-The class discussed balancing structured PM approaches spelled out in
-guides like PMBOK with the flexibility needed to adjust to changing
-demands. While things like change control processes are important,
-having some wiggle room through "progressive elaboration" allows
-projects to navigate uncertainty. The key is bringing in more governance
-and locking down requirements as the project progresses.
-
-The combination of AI and software promises to liberate project managers
-from repetitive administrative work and empower more strategic
-leadership. But core competencies like stakeholder communications, risk
-planning, and change management will remain essentially human. Preparing
-now by testing new technologies while retaining focus on those
-irreplaceable soft skills will position organizations to lead the next
-era of project management.
-
-How are you seeing GenAI affect project management?
-
-[**Cost Estimation: An Ongoing Challenge in Project Management**\
-*Accurately estimating costs is a perennial challenge for project
-managers and business leaders alike. As we
-discussed...*medium.com](https://medium.com/@kylejones_47003/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d "https://medium.com/@kylejones_47003/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d")[](https://medium.com/@kylejones_47003/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d)
+Project management has come a long way from [Gantt charts](https://medium.com/@kylejones_47003/the-benefits-of-using-gantt-charts-in-project-management-dc5990d504f6) and Excel spreadsheets. Exciting new technologies like generative AI and software platforms are changing how we plan and execute projects. Here are some of the key developments business leaders should know (whether or not they have the title of Project Manager). #### Generative AI and Project Documentation Project management is evolving with new technologies that aim to make planning and documentation easier. Recently emerging generative AI tools like Anthropic's Claude and perplexity.ai show promise for automating boring documentation tasks. These tools can take prompts about a project and generate text summarizing plans, risks, statuses, and recommendations. These tools can take simple prompts about a project and generate full work breakdown structures, Gantt charts, and other PM artifacts. While still early stage, generative AI promises to eliminate some of the more tedious aspects of project management. However, proper oversight is still needed to ensure quality outputs. While AI documentation assistants aren't ready to fully replace project managers yet, they demonstrate how AI will transform workflows. Expect smarter planning aids and progress trackers as GenAI automates the boring stuff to free up PMs to focus on higher-value strategic work. #### Leveraging Data for Better Decision Making A key theme of the class was leveraging data for better project oversight. Modern PM software platforms like Monday.com provide advanced visualizations and statistics allowing managers to easily identify bottlenecks, evaluate team performance, and make data-driven decisions. Tracking metrics like on-time delivery, quality scores, and budget versus actuals can fuel a culture of continuous improvement. Moving PM tasks out of email and spreadsheets onto a common platform is a clear productivity win. Cloud-based project management platforms are also gaining traction by centralizing planning, task management, and status reporting. Tools like Monday.com, Microsoft Project, and ProjectLibre enable managing projects through graphical schedules and card walls showing progress flowing between stages. These platforms analyze cycle times and productivity to help optimize team performance. [**Staffing and Managing Project Teams: Lessons from the Trenches**\ *Assembling the right team is critical to project success, but it's not easy. In this post, I'll share some real-world...*medium.com](https://medium.com/@kylejones_47003/staffing-and-managing-project-teams-lessons-from-the-trenches-0b0d7bf732b8 "https://medium.com/@kylejones_47003/staffing-and-managing-project-teams-lessons-from-the-trenches-0b0d7bf732b8")[](https://medium.com/@kylejones_47003/staffing-and-managing-project-teams-lessons-from-the-trenches-0b0d7bf732b8) #### Balancing Flexibility and Governance The class discussed balancing structured PM approaches spelled out in guides like PMBOK with the flexibility needed to adjust to changing demands. While things like change control processes are important, having some wiggle room through "progressive elaboration" allows projects to navigate uncertainty. The key is bringing in more governance and locking down requirements as the project progresses. The combination of AI and software promises to liberate project managers from repetitive administrative work and empower more strategic leadership. But core competencies like stakeholder communications, risk planning, and change management will remain essentially human. Preparing now by testing new technologies while retaining focus on those irreplaceable soft skills will position organizations to lead the next era of project management. How are you seeing GenAI affect project management? [**Cost Estimation: An Ongoing Challenge in Project Management**\ *Accurately estimating costs is a perennial challenge for project managers and business leaders alike. As we discussed...*medium.com](https://medium.com/@kylejones_47003/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d "https://medium.com/@kylejones_47003/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d")[](https://medium.com/@kylejones_47003/cost-estimation-an-ongoing-challenge-in-project-management-8e3f1232ad0d)
 ### Related Stories
-- [[Project Management Tips from the the
-  PMBOK](https://medium.com/@kylejones_47003/project-management-tips-from-the-the-pmbok-498434941051)]
-- [[Agile Project Management: An
-  Overview](https://medium.com/@kylejones_47003/agile-project-management-an-overview-76de90e82f89)]
-- [[Resource Allocation in Project
-  Management](https://medium.com/@kylejones_47003/resource-allocation-in-project-management-2d7939f7fff2)]
-::::::::::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
-[March 27, 2024](https://medium.com/p/16ef210bd64b).
-
-[Canonical
-link](https://medium.com/@kyle-t-jones/project-management-trends-how-ai-and-new-tools-are-changing-the-game-16ef210bd64b)
-
-Exported from [Medium](https://medium.com) on November 10, 2025.
+- [[Project Management Tips from the the PMBOK](https://medium.com/@kylejones_47003/project-management-tips-from-the-the-pmbok-498434941051)]
+- [[Agile Project Management: An Overview](https://medium.com/@kylejones_47003/agile-project-management-an-overview-76de90e82f89)]
+- [[Resource Allocation in Project Management](https://medium.com/@kylejones_47003/resource-allocation-in-project-management-2d7939f7fff2)]
